@@ -1,0 +1,14 @@
+body{
+    font-family:Verdana;
+    font-size: 2em;
+    background-image: url(Cool\ pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh
+}
+.music{
+    text-align: center;
+    display: grid;
+    place-items: center;
+
+}
